@@ -35,39 +35,6 @@ python car_detection.py
 
 ````
 
----
-
-# Face Detection — README.md
-
-```markdown
-# Face Detection using OpenCV
-
-## Overview
-This project detects human faces in images and webcam video using OpenCV (CV2) and Python. Detected faces are marked with bounding boxes.
-
-## Technologies Used
-- Python
-- OpenCV (CV2)
-- NumPy
-
-## Features
-- Real-time face detection
-- Webcam support
-- Image and video processing
-
-## Installation
-```bash
-pip install opencv-python numpy
-```
-
-## Run the Project
-
-```bash
-python face_detection.py
-```
-
-## Applications
-
 * Attendance systems
 * Security systems
 * Surveillance applications
