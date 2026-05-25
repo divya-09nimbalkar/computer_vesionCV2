@@ -71,3 +71,5 @@ python face_detection.py
 * Attendance systems
 * Security systems
 * Surveillance applications
+```
+```
