@@ -58,7 +58,7 @@ This project detects human faces in images and webcam video using OpenCV (CV2) a
 ## Installation
 ```bash
 pip install opencv-python numpy
-````
+```
 
 ## Run the Project
 
